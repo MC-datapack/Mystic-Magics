@@ -4,7 +4,6 @@
 	},
 	"exclusive_set": "#minecraft:exclusive_set/damage",
 	"supported_items": "#minecraft:enchantable/sharp_weapon",
-	"primary_items": "#minecraft:enchantable/sword",
 	"weight": 10,
 	"max_level": 10,
 	"min_cost": {

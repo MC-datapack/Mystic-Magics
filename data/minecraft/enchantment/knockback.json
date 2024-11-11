@@ -2,7 +2,7 @@
 	"description": {
 		"translate": "enchantment.minecraft.knockback"
 	},
-	"supported_items": "#minecraft:enchantable/sword",
+	"supported_items": "#mystic_magics:enchantable/knockback",
 	"weight": 5,
 	"max_level": 255,
 	"min_cost": {
