@@ -1,20 +1,7 @@
 {
     "values": [
-        "minecraft:aqua_affinity",
-        "minecraft:bane_of_arthropods",
-        "minecraft:density",
-        "minecraft:efficiency",
-        "minecraft:fortune",
-        "minecraft:impaling",
-        "minecraft:knockback",
-        "minecraft:luck_of_the_sea",
-        "minecraft:lure",
-        "minecraft:mending",
-        "minecraft:power",
-        "minecraft:punch",
-        "minecraft:respiration",
-        "minecraft:sharpness",
-        "minecraft:smite",
-        "minecraft:unbreaking"
+        "#mystic_magics:max_level/255",
+        "#mystic_magics:max_level/10",
+        "#mystic_magics:max_level/5"
     ]
 }

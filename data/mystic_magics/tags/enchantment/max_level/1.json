@@ -1,6 +1,7 @@
 {
     "values": [
-        "#minecraft:curse",
+        "minecraft:binding_curse",
+        "minecraft:vanishing_curse",
         "minecraft:channeling",
         "minecraft:flame",
         "minecraft:infinity",
