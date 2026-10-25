@@ -3,8 +3,10 @@
 		"pack_format": 48,
 		"supported_formats": {
 			"min_inclusive": 48,
-			"max_inclusive": 100
+			"max_inclusive": 1000
 		},
+		"min_format": 48,
+		"max_format": 1000,
 		"description": "Higher levels of enchantments"
 	},
 	"overlays": {
@@ -12,9 +14,20 @@
 			{
 				"formats": [
 					49,
-					100
+					110
 				],
-				"directory": "overlay_41"
+				"min_format": 49,
+				"max_format": 110,
+				"directory": "overlay_49"
+			},
+			{
+				"formats": [
+					111,
+					1000
+				],
+				"min_format": 111,
+				"max_format": 1000,
+				"directory": "overlay_111"
 			}
 		]
 	}
